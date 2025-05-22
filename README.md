@@ -3,6 +3,9 @@
 A full-stack project with a Django REST Framework backend that proxies requests to the Open Brewery DB API, and a Vue.js frontend for displaying brewery data.  
 The backend validates incoming query parameters and forwards them to the external API, returning the results to the frontend for visualization.
 
+**Backend API is available at [http://localhost:8000](http://localhost:8000)**  
+**Frontend is available at [http://localhost:3000](http://localhost:3000)**
+
 ## Features
 
 - Proxy endpoints for brewery lists and metadata
