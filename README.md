@@ -19,7 +19,7 @@ The backend validates incoming query parameters and forwards them to the externa
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/brunellamarzolini/brewery-gateway.git
    cd brewery-gateway
    ```
 
